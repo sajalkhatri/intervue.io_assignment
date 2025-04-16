@@ -1,5 +1,5 @@
-# Intervue_Assignment
-# Intervue Web Automation
+﻿# Assignment_Intervue
+# InterVue Web Automation
 
 This script automates interactions with the InterVue website using Selenium WebDriver. It performs a series of actions including navigation, login, search, and logout.
 
