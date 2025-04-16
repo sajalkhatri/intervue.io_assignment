@@ -1,5 +1,5 @@
 # Assignment_Intervue
-## InterVue Web Automation
+## Intervue web login Automation
 
 This project automates interactions with the InterVue website using **Selenium WebDriver**. It performs key user actions such as login, search, navigation, and logout.
 
