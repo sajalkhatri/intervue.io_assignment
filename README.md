@@ -1,33 +1,36 @@
-﻿# Assignment_Intervue
-# InterVue Web Automation
+# Assignment_Intervue
+## InterVue Web Automation
 
-This script automates interactions with the InterVue website using Selenium WebDriver. It performs a series of actions including navigation, login, search, and logout.
+This project automates interactions with the InterVue website using **Selenium WebDriver**. It performs key user actions such as login, search, navigation, and logout.
 
-## Features
+---
 
-- Automated website navigation and element interaction
-- Login functionality with credentials
-- Search feature testing
+## 🚀 Features
+
+- Automated website navigation and interaction
+- Login using predefined credentials
+- Testing of the search functionality
 - Profile menu navigation
-- Automated logout process
+- Secure logout process
 
-## Prerequisites
+---
 
-Before running this script, you'll need to have the following installed:
+## ✅ Prerequisites
+
+Ensure the following are installed before running the script:
 
 - Python 3.6 or higher
-- Chrome browser
-- ChromeDriver (compatible with your Chrome version)
+- Google Chrome browser
+- ChromeDriver (must match your Chrome version)
 
-## Installation
+---
 
-1. Clone this repository or download the script files to your local machine.
+## 📦 Installation
 
-2. Install the required dependencies:
-
-```bash
-pip install -r requirements.txt
-```
+1. **Clone the repository** or download the files locally:
+   ```bash
+   git clone https://github.com/your-username/assignment_intervue.io.git
+   cd assignment_intervue.io
 
 ## Setting Up requirements.txt
 
@@ -73,6 +76,7 @@ If you encounter issues:
 - Check that all selectors in the script match the current website structure
 - Increase wait times if your internet connection is slow
 - Check the console output for specific error messages
+
 
 
 
